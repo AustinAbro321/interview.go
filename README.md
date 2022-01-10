@@ -9,4 +9,4 @@ users environment or created in cyber-dojo.
 1. For language and framework choose Go, testing
 1. Choose ensemble
 1. Delete all files except cyber-dojo&#46;sh
-1. Add all the Go files in this repo
+1. Add all only the two .go files
